@@ -1,0 +1,3 @@
+# 모든 텍스트 파일을 LF로 고정
+* text=auto
+* eol=lf
